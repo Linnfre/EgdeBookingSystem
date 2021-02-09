@@ -173,3 +173,12 @@ C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSyste
 C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Equipments\Details.cshtml.g.cs
 C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Equipments\Edit.cshtml.g.cs
 C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Equipments\Index.cshtml.g.cs
+C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Calendar\Index.cshtml.g.cs
+C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Customers\Create.cshtml.g.cs
+C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Customers\Delete.cshtml.g.cs
+C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Customers\Details.cshtml.g.cs
+C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Customers\Edit.cshtml.g.cs
+C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Customers\Index.cshtml.g.cs
+C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Login\Index.cshtml.g.cs
+C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\MyPage\Bookings\Index.cshtml.g.cs
+C:\Users\magnu\source\repos\EgdeBookingSystem\EgdeBookingSystem\EgdeBookingSystem\obj\Debug\netcoreapp3.1\Razor\Pages\MyPage\Index.cshtml.g.cs
