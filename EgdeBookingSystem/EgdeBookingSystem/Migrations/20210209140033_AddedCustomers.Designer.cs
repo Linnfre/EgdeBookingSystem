@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EgdeBookingSystem.Migrations
 {
     [DbContext(typeof(EgdeBookingSystemContext))]
-    [Migration("20210209134937_AddedCustomers")]
+    [Migration("20210209140033_AddedCustomers")]
     partial class AddedCustomers
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -43,8 +43,8 @@ namespace EgdeBookingSystem.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("Email")
-                        .HasColumnType("int");
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("ID");
 
