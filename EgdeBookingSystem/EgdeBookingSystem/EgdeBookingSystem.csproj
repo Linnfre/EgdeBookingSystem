@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>9c5b0ab9-9c03-46c3-b184-c919df32d33b</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
     <Folder Include="Pages\Innlogging\" />
-    <Folder Include="Pages\Min Side\" />
     <Folder Include="Pages\Kalender\" />
+    <Folder Include="Pages\Min Side\Bookinger\" />
     <Folder Include="Pages\Utstyr\" />
   </ItemGroup>
 
