@@ -4,4 +4,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Pages\Innlogging\" />
+    <Folder Include="Pages\Min Side\" />
+    <Folder Include="Pages\Kalender\" />
+    <Folder Include="Pages\Utstyr\" />
+  </ItemGroup>
+
 </Project>
