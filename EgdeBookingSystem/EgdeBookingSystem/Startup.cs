@@ -8,6 +8,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using EgdeBookingSystem.Data;
 
 namespace EgdeBookingSystem
 {
@@ -24,6 +26,9 @@ namespace EgdeBookingSystem
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+
+            services.AddDbContext<EgdeBookingSystemContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("EgdeBookingSystemContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

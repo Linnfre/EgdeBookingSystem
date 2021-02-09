@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace EgdeBookingSystem.Models
 {
-    public class Utstyr
+    public class Equipment
     {
         public int ID { get; set; }
         public string Name { get; set; }
