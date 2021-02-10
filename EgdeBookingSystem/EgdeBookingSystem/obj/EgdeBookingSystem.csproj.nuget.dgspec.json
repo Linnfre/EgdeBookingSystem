@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\magnu\\source\\repos\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem.csproj": {}
+    "C:\\Users\\linn_\\egdebook\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\magnu\\source\\repos\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem.csproj": {
+    "C:\\Users\\linn_\\egdebook\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\magnu\\source\\repos\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\linn_\\egdebook\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem.csproj",
         "projectName": "EgdeBookingSystem",
-        "projectPath": "C:\\Users\\magnu\\source\\repos\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem.csproj",
-        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\magnu\\source\\repos\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem\\obj\\",
+        "projectPath": "C:\\Users\\linn_\\egdebook\\EgdeBookingSystem\\EgdeBookingSystem\\EgdeBookingSystem.csproj",
+        "packagesPath": "C:\\Users\\linn_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linn_\\egdebook\\EgdeBookingSystem\\EgdeBookingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linn_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
